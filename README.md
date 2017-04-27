@@ -1,3 +1,4 @@
+# Deprecated (Rancher is now implemented in/ compatible with Traefik as backend)
 rancher-traefik
 ==============
 
